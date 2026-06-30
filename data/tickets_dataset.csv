@@ -1,0 +1,601 @@
+ticket_id,description,category,priority
+1,My laptop screen is completely black and I cannot turn it on,Hardware,High
+2,I forgot my email password and cannot login,Account,Low
+3,The entire office network is down and nobody can work,Network,High
+4,My mouse is not working properly sometimes it skips,Hardware,Low
+5,Server is down and all customer data is inaccessible,Server,High
+6,I need Microsoft Word installed on my computer,Software,Low
+7,Our database crashed and we lost today transactions,Database,High
+8,My printer is printing blank pages,Hardware,Medium
+9,I cannot open PDF files on my laptop,Software,Low
+10,Email server is not sending emails for the whole company,Email,High
+11,My keyboard some keys are not working,Hardware,Medium
+12,I need access to the HR folder on shared drive,Access,Low
+13,Website is down and customers cannot place orders,Network,High
+14,My computer is running very slow today,Performance,Low
+15,Security breach detected someone accessed our system,Security,High
+16,I need to reset my VPN password,Account,Low
+17,All printers in the office stopped working,Hardware,Medium
+18,My monitor flickers sometimes,Hardware,Low
+19,Payroll software crashed during salary processing,Software,High
+20,I cannot connect to WiFi on my laptop,Network,Medium
+21,Production server is overheating and may shut down,Server,High
+22,I need a new mouse for my workstation,Hardware,Low
+23,Customer portal is throwing errors for all users,Software,High
+24,My Outlook keeps crashing when I open it,Software,Medium
+25,Internet is very slow in the entire building,Network,Medium
+26,I accidentally deleted an important project file,Data,High
+27,My webcam is not working for video calls,Hardware,Low
+28,Ransomware attack detected on company systems,Security,High
+29,I need software installed for my new project,Software,Low
+30,The backup system failed and no backups were taken,Backup,High
+31,My headphones are not working with my computer,Hardware,Low
+32,Company email down for past 3 hours,Email,High
+33,I need a new desk phone setup,Hardware,Low
+34,Application server memory is critically full,Server,High
+35,My laptop battery drains very fast,Hardware,Medium
+36,I cannot access my work files from home,Access,Medium
+37,Database backup failed last night,Backup,Medium
+38,I need to change my username in the system,Account,Low
+39,Firewall blocking all outgoing traffic,Security,High
+40,My computer shows blue screen of death,Hardware,High
+41,I need more storage space on my laptop,Hardware,Low
+42,ERP system is down and business operations stopped,Software,High
+43,My computer clock shows wrong time,Software,Low
+44,Network switch failed in main office floor,Network,High
+45,I need to install antivirus on my laptop,Security,Low
+46,Remote desktop connection is not working,Network,Medium
+47,My laptop overheats and shuts down randomly,Hardware,Medium
+48,All employees locked out of main application,Access,High
+49,I need to create a new email account for new hire,Account,Low
+50,Critical data corruption found in main database,Database,High
+51,My speakers have no sound,Hardware,Low
+52,Cannot access internet on my work laptop,Network,Medium
+53,Data center cooling system failure risk,Server,High
+54,I need Microsoft Excel on my computer,Software,Low
+55,Multiple users reporting system login failures,Access,High
+56,My laptop charger is broken,Hardware,Medium
+57,I cannot print documents from my computer,Hardware,Medium
+58,Unauthorized access attempt on admin account,Security,High
+59,I need to update my phone number in HR system,Account,Low
+60,Production database running out of disk space,Database,High
+61,My laptop touchpad is not responding,Hardware,Medium
+62,I need Adobe Reader installed,Software,Low
+63,Company website hacked and defaced,Security,High
+64,My work phone is not receiving calls,Hardware,Medium
+65,Email attachments not opening for some users,Email,Medium
+66,Server room UPS battery needs replacement soon,Server,High
+67,I need a laptop stand for my desk,Hardware,Low
+68,All ATM machines not working linked to our system,Network,High
+69,My computer does not recognize USB drives,Hardware,Low
+70,HR system down during annual appraisal process,Software,High
+71,I need to change my laptop wallpaper settings,Software,Low
+72,Main router failed in headquarters,Network,High
+73,My computer takes too long to start,Performance,Medium
+74,Employee data accidentally exposed online,Security,High
+75,I need extra monitor for my workstation,Hardware,Low
+76,Online payment gateway not processing payments,Software,High
+77,My video call quality is very poor,Network,Low
+78,Backup power failure in server room,Server,High
+79,I need access to project management tool,Access,Low
+80,All customer records missing from CRM system,Database,High
+81,My laptop keyboard backlight not working,Hardware,Low
+82,Finance software giving calculation errors,Software,High
+83,I cannot send large email attachments,Email,Low
+84,Physical server hardware failure detected,Server,High
+85,I need Zoom installed on my laptop,Software,Low
+86,Network outage affecting 3 branch offices,Network,High
+87,My computer does not have enough RAM for tasks,Performance,Medium
+88,Critical security vulnerability found in system,Security,High
+89,I need to recover deleted emails from last week,Email,Medium
+90,Entire company cannot access shared drives,Access,High
+91,My laptop screen resolution looks odd,Hardware,Low
+92,Accounting software crashed losing todays entries,Software,High
+93,I need a new keyboard for my desk,Hardware,Low
+94,Load balancer failure causing website slowness,Network,High
+95,My bluetooth mouse keeps disconnecting,Hardware,Low
+96,Hospital management system is down,Software,High
+97,I need to reset another employees password,Account,Medium
+98,Data loss during system migration process,Data,High
+99,My calculator app is not working,Software,Low
+100,SSL certificate expired on company website,Security,High
+101,I need help setting up my email signature,Email,Low
+102,Primary database server crashed unexpectedly,Database,High
+103,My laptop camera has a green tint,Hardware,Low
+104,Entire office cannot print to network printers,Hardware,Medium
+105,Active directory failure locking out all users,Access,High
+106,I need to organize my desktop icons,Software,Low
+107,Fire suppression system triggered in server room,Server,High
+108,My task bar disappeared from desktop,Software,Low
+109,Customer payments not processing since morning,Software,High
+110,I need to update my emergency contact in HR,Account,Low
+111,WAN link down between offices,Network,High
+112,My laptop fan makes loud noise,Hardware,Medium
+113,Production environment completely unavailable,Server,High
+114,I cannot find the recycle bin on my desktop,Software,Low
+115,System audit found unauthorized user accounts,Security,High
+116,My second monitor is not detected,Hardware,Medium
+117,Inventory management system not updating stock,Software,High
+118,I need to clear my browser cache and cookies,Software,Low
+119,Critical API failure affecting all mobile apps,Software,High
+120,My laptop does not connect to projector,Hardware,Low
+121,Critical server outage impacting all departments,Infrastructure,High
+122,Intermittent connectivity issues on workstations,Network,Medium
+123,Request for information on product features,General Inquiry,Low
+124,Severe network failure disrupting business operations,Network,High
+125,Printer not responding to network commands,Hardware,Medium
+126,Inquiry about available subscription plans,General Inquiry,Low
+127,Request for general product documentation,Documentation,Low
+128,VPN connection dropping frequently,Network,Medium
+129,Major security breach detected on company systems,Security,High
+130,Minor cosmetic issue in user interface,Software,Low
+131,Email sync delays reported by multiple users,Software,Medium
+132,Complete loss of internet connectivity across office,Network,High
+133,Question about billing cycle dates,Billing,Low
+134,Software update failing on specific devices,Software,Medium
+135,Database corruption affecting all customer records,Infrastructure,High
+136,Request for user guide on basic features,Documentation,Low
+137,Slow performance on cloud-based application,Software,Medium
+138,ERP system down causing production halt,Infrastructure,High
+139,General inquiry about company services,General Inquiry,Low
+140,Email server failure blocking all communications,Infrastructure,High
+141,Wi-Fi signal weak in certain areas of office,Network,Medium
+142,Question about return and exchange policy,General Inquiry,Low
+143,Critical hardware failure in data center,Hardware,High
+144,Unable to access shared drives occasionally,Software,Medium
+145,Request for clarification on product terms,General Inquiry,Low
+146,Minor display issue on dashboard widget,Software,Low
+147,Application crashing intermittently for some users,Software,Medium
+148,Ransomware attack detected on multiple systems,Security,High
+149,Request for onboarding documentation,Documentation,Low
+150,Authentication errors appearing for some accounts,Software,Medium
+151,VPN service completely unavailable for remote workers,Network,High
+152,Inquiry about promotional offers available,General Inquiry,Low
+153,Billing discrepancy found on recent invoice,Billing,Medium
+154,Cloud platform experiencing total service outage,Infrastructure,High
+155,Question about software compatibility,General Inquiry,Low
+156,Product feature not working as expected,Software,Medium
+157,Request for FAQ documentation,Documentation,Low
+158,Payment gateway failure blocking all transactions,Infrastructure,High
+159,Request for documentation on billing procedures,Billing,Medium
+160,General feedback on product usability,General Inquiry,Low
+161,Active Directory failure locking out all users,Infrastructure,High
+162,Minor security alert flagged by monitoring tool,Security,Medium
+163,Minor formatting issue in PDF report,Software,Low
+164,Critical vulnerability found in production environment,Security,High
+165,Partial loss of functionality in SaaS platform,Software,Medium
+166,Inquiry about referral program details,General Inquiry,Low
+167,Firewall failure exposing network to external threats,Security,High
+168,Recurring but non-critical network drops,Network,Medium
+169,Request for information on data export options,General Inquiry,Low
+170,SaaS platform down affecting entire organization,Infrastructure,High
+171,Slow database query affecting reports,Software,Medium
+172,Question about license management process,General Inquiry,Low
+173,Data center cooling failure risking hardware damage,Hardware,High
+174,User unable to log into specific application,Software,Medium
+175,Minor UI glitch when switching themes,Software,Low
+176,Request for product comparison documentation,Documentation,Low
+177,Critical bug causing data loss in production,Software,High
+178,Moderate performance degradation on servers,Infrastructure,Medium
+179,Inquiry about cancellation policy,General Inquiry,Low
+180,Third-party integration returning errors,Software,Medium
+181,Complete storage system failure detected,Infrastructure,High
+182,General question about account management,General Inquiry,Low
+183,Emergency: multiple servers offline simultaneously,Infrastructure,High
+184,Scanner not connecting to Wi-Fi properly,Hardware,Medium
+185,Request for tutorial on advanced features,Documentation,Low
+186,Customer portal completely inaccessible,Infrastructure,High
+187,Webcam not recognized by collaboration software,Hardware,Medium
+188,Minor spelling error found in documentation,Documentation,Low
+189,Critical performance degradation in core systems,Infrastructure,High
+190,USB device not mounting correctly,Hardware,Medium
+191,Inquiry about language support in software,General Inquiry,Low
+192,Security incident involving unauthorized data access,Security,High
+193,Outlook calendar not syncing across devices,Software,Medium
+194,Question about notification preferences,General Inquiry,Low
+195,System-wide authentication failure,Infrastructure,High
+196,Touchscreen display unresponsive at times,Hardware,Medium
+197,Request for clarification on usage limits,General Inquiry,Low
+198,General feedback about support experience,General Inquiry,Low
+199,Moderate latency in SaaS platform,Software,Medium
+200,Major outage affecting all cloud services,Infrastructure,High
+201,Minor alignment issue in mobile interface,Software,Low
+202,Hardware driver conflict causing instability,Hardware,Medium
+203,Critical integration failure disrupting workflows,Software,High
+204,Inquiry about multi-user account options,General Inquiry,Low
+205,Minor disruptions to automated workflows,Software,Medium
+206,Severe latency issues impacting all users,Network,High
+207,Request for information about integrations,General Inquiry,Low
+208,Request for update on return and exchange policy,General Inquiry,Medium
+209,Question about password reset procedure,General Inquiry,Low
+210,Complete network switch failure reported,Network,High
+211,Payment processing taking longer than expected,Software,Medium
+212,Minor delay in email confirmation delivery,Software,Low
+213,Major microservices crash in production environment,Infrastructure,High
+214,Analytics dashboard loading slowly,Software,Medium
+215,Inquiry about data portability options,General Inquiry,Low
+216,Urgent: data synchronization failure across platforms,Software,High
+217,Integration errors between CRM and ERP,Software,Medium
+218,Request for documentation on new features,Documentation,Low
+219,High-priority server crash in production,Infrastructure,High
+220,Question about archiving old records,General Inquiry,Low
+221,Partial service degradation in cloud environment,Infrastructure,Medium
+222,Widespread application failures across departments,Software,High
+223,Minor color rendering issue in reports,Software,Low
+224,User reporting difficulty navigating portal,Software,Medium
+225,Critical billing system outage reported,Infrastructure,High
+226,Inquiry about partner program benefits,General Inquiry,Low
+227,Network switch showing degraded performance,Network,Medium
+228,Request for walkthrough of billing portal,Billing,Low
+229,Emergency hardware replacement required immediately,Hardware,High
+230,KVM switch not recognizing connected devices,Hardware,Medium
+231,General question about uptime guarantees,General Inquiry,Low
+232,Severe security vulnerability in customer-facing system,Security,High
+233,Recurring backup failures on secondary systems,Infrastructure,Medium
+234,Minor issue with tooltip text accuracy,Software,Low
+235,Total loss of backup systems detected,Infrastructure,High
+236,Moderate security vulnerability identified,Security,Medium
+237,Inquiry about API documentation availability,Documentation,Low
+238,Critical API failure disrupting third-party services,Software,High
+239,Billing statement contains unrecognized charge,Billing,Medium
+240,Request for information on support hours,General Inquiry,Low
+241,Major infrastructure collapse requiring immediate action,Infrastructure,High
+242,SaaS tool showing inconsistent behavior,Software,Medium
+243,Question about export formats supported,General Inquiry,Low
+244,Complete system failure during peak business hours,Infrastructure,High
+245,Request for product compatibility documentation,Documentation,Medium
+246,Minor inconsistency in product naming,General Inquiry,Low
+247,Inquiry about white-label options,General Inquiry,Low
+248,Minor bug in automated rebalancing feature,Software,Medium
+249,Urgent: unauthorized intrusion into production servers,Security,High
+250,Request for help finding a specific setting,General Inquiry,Low
+251,Printer producing poor quality output,Hardware,Medium
+252,Critical failure of redundant systems,Infrastructure,High
+253,Question about auto-renewal settings,General Inquiry,Low
+254,Moderate performance issues in analytics tool,Software,Medium
+255,Severe data breach involving sensitive records,Security,High
+256,Minor issue with search filter behavior,Software,Low
+257,Some users unable to access specific modules,Software,Medium
+258,Complete CRM system outage,Infrastructure,High
+259,Inquiry about data backup frequency,General Inquiry,Low
+260,Connectivity issues with IoT devices,Network,Medium
+261,Request for historical billing summary,Billing,Low
+262,Emergency: network intrusion detected,Security,High
+263,Major crash in analytics platform,Software,High
+264,Recurring errors in project management tool,Software,Medium
+265,Question about adding team members,General Inquiry,Low
+266,Minor delay in data refresh on dashboard,Software,Low
+267,Partial outage in non-critical system,Infrastructure,Medium
+268,Critical error in automated billing process,Billing,High
+269,Inquiry about third-party certification,General Inquiry,Low
+270,Account management portal loading slowly,Software,Medium
+271,Urgent help needed: system down for 3+ hours,Infrastructure,High
+272,Request for clarification on feature roadmap,General Inquiry,Low
+273,Scheduled maintenance causing service interruptions,Infrastructure,Medium
+274,Complete failure of monitoring systems,Infrastructure,High
+275,Question about custom domain setup,General Inquiry,Low
+276,Device firmware update causing minor issues,Software,Medium
+277,Minor discrepancy in usage statistics,Software,Low
+278,Severe disruption to supply chain software,Software,High
+279,Request for information on subscription plans,General Inquiry,Medium
+280,Inquiry about SSO configuration options,General Inquiry,Low
+281,High-severity incident: all services unresponsive,Infrastructure,High
+282,Moderate disruption to communication tools,Software,Medium
+283,Request for help with profile customization,General Inquiry,Low
+284,Critical malfunction in IoT infrastructure,Infrastructure,High
+285,Connectivity issue with external peripherals,Hardware,Medium
+286,Question about system status page,General Inquiry,Low
+287,Major outage affecting healthcare devices,Hardware,High
+288,Recurring sync failures in mobile application,Software,Medium
+289,Minor lag when switching between modules,Software,Low
+290,Severe SaaS platform degradation reported,Software,High
+291,Minor bugs in latest software release,Software,Medium
+292,Inquiry about audit log availability,General Inquiry,Low
+293,Emergency: production database inaccessible,Infrastructure,High
+294,Product documentation request for onboarding,Documentation,Medium
+295,Request for information on trial extension,General Inquiry,Low
+296,Question about mobile app compatibility,General Inquiry,Low
+297,Critical network segmentation failure,Network,High
+298,Billing inquiry about recent subscription charge,Billing,Medium
+299,Minor error message during file upload,Software,Low
+300,Major failure in load balancing systems,Infrastructure,High
+301,Moderate performance degradation after update,Software,Medium
+302,Inquiry about training resources available,General Inquiry,Low
+303,Urgent: complete loss of telemetry data,Infrastructure,High
+304,Request for clarification on service terms,General Inquiry,Medium
+305,Request for information on compliance certifications,General Inquiry,Low
+306,Critical incident in cloud-native environment,Infrastructure,High
+307,Some features unavailable in SaaS dashboard,Software,Medium
+308,Question about archiving completed projects,General Inquiry,Low
+309,Severe disruption to EMR systems,Software,High
+310,Wi-Fi disconnection affecting remote workers,Network,Medium
+311,Minor issue with sorting in data tables,Software,Low
+312,Complete authentication service failure,Infrastructure,High
+313,API returning occasional 500 errors,Software,Medium
+314,Inquiry about custom reporting options,General Inquiry,Low
+315,Request for help with timezone settings,General Inquiry,Low
+316,Recurring issue with file permissions,Software,Medium
+317,Major performance collapse in data analytics,Software,High
+318,Question about multi-language support,General Inquiry,Low
+319,Slow response from customer support portal,Software,Medium
+320,Critical firewall misconfiguration detected,Security,High
+321,Minor display bug on settings page,Software,Low
+322,Minor integration issue with third-party tool,Software,Medium
+323,Emergency system restore required urgently,Infrastructure,High
+324,Inquiry about webhook setup documentation,Documentation,Low
+325,Moderate network congestion during peak hours,Network,Medium
+326,Severe outage in project management SaaS,Software,High
+327,Request for information on team permissions,General Inquiry,Low
+328,Recurring login issues for specific users,Software,Medium
+329,Question about notification digest options,General Inquiry,Low
+330,Critical hardware failure in server room,Hardware,High
+331,Product feature request with supporting details,General Inquiry,Medium
+332,Minor issue with CSV import formatting,Software,Low
+333,Major incident affecting cloud infrastructure,Infrastructure,High
+334,Billing discrepancy involving refund not received,Billing,Medium
+335,Inquiry about SLA documentation availability,Documentation,Low
+336,Complete loss of remote access for employees,Network,High
+337,Request for documentation on security protocols,Documentation,Medium
+338,Request for help with dark mode settings,General Inquiry,Low
+339,Urgent: DNS failure affecting all services,Network,High
+340,Moderate hardware degradation on workstations,Hardware,Medium
+341,Question about dashboard layout customization,General Inquiry,Low
+342,Critical patch deployment failed on all systems,Infrastructure,High
+343,Minor issue with printing from web app,Software,Low
+344,Partial loss of access to cloud storage,Infrastructure,Medium
+345,Severe service disruption during maintenance window,Infrastructure,High
+346,Inquiry about accessibility features,General Inquiry,Low
+347,Service notification delays reported,Software,Medium
+348,Request for information on data deletion policy,General Inquiry,Low
+349,Emergency: SSL certificate expired on production,Security,High
+350,Occasional timeouts when accessing reports,Software,Medium
+351,Question about workspace organization options,General Inquiry,Low
+352,Major system failure impacting customer transactions,Infrastructure,High
+353,Minor compatibility issue with new OS update,Software,Medium
+354,Minor formatting issue in exported reports,Software,Low
+355,Critical Kubernetes cluster failure,Infrastructure,High
+356,Request for help with account configuration,General Inquiry,Medium
+357,Inquiry about calendar sync options,General Inquiry,Low
+358,Severe data pipeline disruption,Infrastructure,High
+359,Recurring issues with automated email triggers,Software,Medium
+360,Request for help with bulk user management,General Inquiry,Low
+361,Urgent: production environment completely down,Infrastructure,High
+362,Partial functionality loss in mobile app,Software,Medium
+363,Question about guest user permissions,General Inquiry,Low
+364,Critical issue with enterprise backup solution,Infrastructure,High
+365,Slow loading of product catalog in portal,Software,Medium
+366,Minor issue with badge notifications,Software,Low
+367,Inquiry about data visualization options,General Inquiry,Low
+368,User requesting guidance on feature setup,General Inquiry,Medium
+369,Major security audit revealed critical gaps,Security,High
+370,Request for information on version history,General Inquiry,Low
+371,Moderate delay in webhook deliveries,Software,Medium
+372,Complete SaaS platform unavailability,Infrastructure,High
+373,Question about tagging and labeling features,General Inquiry,Low
+374,Billing inquiry about upcoming renewal,Billing,Medium
+375,Emergency: all virtual machines offline,Infrastructure,High
+376,Minor issue with sidebar navigation,Software,Low
+377,Hardware connectivity issue with monitor,Hardware,Medium
+378,Critical outage in financial systems,Infrastructure,High
+379,Inquiry about embedded content support,General Inquiry,Low
+380,Severe disruption to automated workflows,Software,High
+381,Request for guidance on compliance documentation,Documentation,Medium
+382,Request for help with custom fields,General Inquiry,Low
+383,Urgent: system compromise suspected,Security,High
+384,Recurring disconnection from VPN for one user,Network,Medium
+385,Question about recurring task configuration,General Inquiry,Low
+386,Minor issue with drag-and-drop interface,Software,Low
+387,Minor performance issue in search functionality,Software,Medium
+388,Major hardware failure across multiple racks,Hardware,High
+389,Inquiry about real-time collaboration features,General Inquiry,Low
+390,Some automated tasks failing intermittently,Software,Medium
+391,Critical data center power failure,Infrastructure,High
+392,Request for information on keyboard shortcuts,Documentation,Low
+393,Request for update on pending support ticket,General Inquiry,Medium
+394,Complete loss of cloud storage access,Infrastructure,High
+395,Question about activity feed settings,General Inquiry,Low
+396,Moderate sync issues between platforms,Software,Medium
+397,Minor issue with comment thread display,Software,Low
+398,Urgent: all APIs returning errors,Software,High
+399,Network latency during specific time windows,Network,Medium
+400,Inquiry about file attachment size limits,General Inquiry,Low
+401,Critical incident in containerized environment,Infrastructure,High
+402,Request for information about product roadmap,General Inquiry,Medium
+403,Request for help with form builder tool,General Inquiry,Low
+404,Severe outage affecting customer-facing applications,Infrastructure,High
+405,Minor configuration issue after system migration,Software,Medium
+406,Question about template library access,General Inquiry,Low
+407,Emergency response needed for system breach,Security,High
+408,Recurring error when exporting data from SaaS,Software,Medium
+409,Minor delay in status updates syncing,Software,Low
+410,Major disruption to enterprise communication tools,Software,High
+411,Request for help with user provisioning,General Inquiry,Medium
+412,Inquiry about cross-device sync options,General Inquiry,Low
+413,Critical issue with automated testing pipeline,Software,High
+414,Moderate issue with LDAP authentication,Software,Medium
+415,Request for help with project archiving,General Inquiry,Low
+416,Question about search functionality scope,General Inquiry,Low
+417,Severe failure in disaster recovery systems,Infrastructure,High
+418,Some alerts not triggering as expected,Software,Medium
+419,Minor issue with progress bar display,Software,Low
+420,Request for comprehensive product training materials,Documentation,Medium
+421,Urgent: critical service unavailable for 24 hours,Infrastructure,High
+422,Inquiry about chart export options,General Inquiry,Low
+423,Complete system outage requiring vendor escalation,Infrastructure,High
+424,Partial disruption to scheduled reports,Software,Medium
+425,Request for information on onboarding checklist,Documentation,Low
+426,Major incident: data center network down,Infrastructure,High
+427,Minor issue with mobile device management,Software,Medium
+428,Question about goal tracking features,General Inquiry,Low
+429,Critical hardware malfunction in production servers,Hardware,High
+430,Recurring issue with smart device pairing,Hardware,Medium
+431,Minor issue with link preview rendering,Software,Low
+432,Emergency: all endpoints compromised,Security,High
+433,Request for guidance on API rate limits,Documentation,Medium
+434,Inquiry about task dependency features,General Inquiry,Low
+435,Severe performance degradation during peak load,Infrastructure,High
+436,Moderate performance issue in CI/CD pipeline,Software,Medium
+437,Request for help with report scheduling,General Inquiry,Low
+438,Question about board view configuration,General Inquiry,Low
+439,Some notifications delayed in collaboration tool,Software,Medium
+440,Critical SaaS integration failure,Software,High
+441,Minor issue with dropdown menu behavior,Software,Low
+442,Request for clarification on data retention policy,General Inquiry,Medium
+443,Major network outage impacting all branches,Network,High
+444,Inquiry about API usage monitoring,General Inquiry,Low
+445,Minor disruption to automated invoice generation,Software,Medium
+446,Urgent: production deployment completely failed,Infrastructure,High
+447,Request for information on workspace analytics,General Inquiry,Low
+448,Recurring issue with two-factor authentication,Software,Medium
+449,Question about color coding options,General Inquiry,Low
+450,Critical system vulnerability under active exploitation,Security,High
+451,Network instability in remote office location,Network,Medium
+452,Minor issue with avatar upload,Software,Low
+453,Severe downtime in enterprise resource planning,Infrastructure,High
+454,Request for help with role-based access control,General Inquiry,Medium
+455,Inquiry about in-app messaging features,General Inquiry,Low
+456,Emergency: complete cloud service disruption,Infrastructure,High
+457,Moderate performance issue in data warehouse,Software,Medium
+458,Request for help with data import wizard,General Inquiry,Low
+459,Major incident requiring immediate executive escalation,Infrastructure,High
+460,Question about cross-project reporting,General Inquiry,Low
+461,Some integrations not activating on schedule,Software,Medium
+462,Critical failure in high-availability cluster,Infrastructure,High
+463,Minor issue with date picker widget,Software,Low
+464,Request for documentation on disaster recovery,Documentation,Medium
+465,Urgent: all business operations halted,Infrastructure,High
+466,Inquiry about automation trigger options,General Inquiry,Low
+467,Minor glitch in the user dashboard,Software,Medium
+468,Request for information on security training,Documentation,Low
+469,Severe latency causing transaction timeouts,Network,High
+470,Recurring slowness in legacy application,Software,Medium
+471,Question about compliance reporting tools,General Inquiry,Low
+472,Critical breach in data protection controls,Security,High
+473,Request for support with SAML configuration,Software,Medium
+474,Minor issue with map view rendering,Software,Low
+475,Major outage in identity management system,Infrastructure,High
+476,Moderate issue with log aggregation tool,Software,Medium
+477,Inquiry about offline mode availability,General Inquiry,Low
+478,Emergency: production rollback failed,Infrastructure,High
+479,Some users experiencing delayed password resets,Software,Medium
+480,Request for help with app marketplace,General Inquiry,Low
+481,Critical disk failure causing data corruption,Hardware,High
+482,Request for product feature enhancement,General Inquiry,Medium
+483,Question about workspace transfer process,General Inquiry,Low
+484,Severe disruption to IoT device management,Infrastructure,High
+485,Minor bug in the billing adjustment workflow,Billing,Medium
+486,Minor issue with notification sound settings,Software,Low
+487,Inquiry about priority matrix features,General Inquiry,Low
+488,Recurring issue with event-driven automation,Software,Medium
+489,Urgent: all SaaS tools unavailable,Infrastructure,High
+490,Request for information on beta features,General Inquiry,Low
+491,Request for help with endpoint management,Software,Medium
+492,Critical infrastructure failure across regions,Infrastructure,High
+493,Question about time tracking accuracy,General Inquiry,Low
+494,Moderate degradation in real-time analytics,Software,Medium
+495,Major incident: compromised admin credentials,Security,High
+496,Minor issue with chart legend display,Software,Low
+497,Some alerts not routing to correct team,Software,Medium
+498,Emergency: entire network infrastructure down,Network,High
+499,Inquiry about sub-task configuration,General Inquiry,Low
+500,Request for guidance on service level agreement,Documentation,Medium
+501,Request for help with resource planning,General Inquiry,Low
+502,Critical failure in continuous deployment pipeline,Software,High
+503,Severe system instability after latest update,Software,High
+504,Minor issue with cloud cost optimization reports,Software,Medium
+505,Question about document version control,General Inquiry,Low
+506,Minor issue with table column resizing,Software,Low
+507,Recurring problem with smart home hub,Hardware,Medium
+508,Urgent: all customer accounts locked out,Infrastructure,High
+509,Inquiry about project milestone features,General Inquiry,Low
+510,Request for support with data import tool,Software,Medium
+511,Critical outage affecting revenue-generating systems,Infrastructure,High
+512,Request for information on workflow templates,General Inquiry,Low
+513,Moderate performance issue in video conferencing,Software,Medium
+514,Major failure in enterprise monitoring solution,Software,High
+515,Question about calendar view options,General Inquiry,Low
+516,Some users unable to update profile settings,Software,Medium
+517,Minor issue with image rendering in docs,Software,Low
+518,Emergency: production data partially deleted,Infrastructure,High
+519,Request for help with multi-tenant configuration,Software,Medium
+520,Inquiry about sprint planning features,General Inquiry,Low
+521,Critical security incident under investigation,Security,High
+522,Minor disruption to scheduled data backups,Infrastructure,Medium
+523,Request for help with team capacity planning,General Inquiry,Low
+524,Severe disruption to medical device connectivity,Hardware,High
+525,Recurring connectivity issue with smart printer,Hardware,Medium
+526,Question about custom status labels,General Inquiry,Low
+527,Urgent: critical services experiencing downtime,Infrastructure,High
+528,Request for clarification on upgrade path,General Inquiry,Medium
+529,Minor issue with filter persistence,Software,Low
+530,Complete platform failure affecting all tenants,Infrastructure,High
+531,Moderate issue with centralized log management,Software,Medium
+532,Inquiry about anonymous feedback options,General Inquiry,Low
+533,Major incident: network storm detected,Network,High
+534,Some widgets not rendering in dashboard,Software,Medium
+535,Request for information on workload view,General Inquiry,Low
+536,Question about duplicate detection features,General Inquiry,Low
+537,Critical failure in payment processing system,Infrastructure,High
+538,Request for help with network segmentation,Network,Medium
+539,Minor issue with hover tooltip delay,Software,Low
+540,Emergency: ransomware spreading across network,Security,High
+541,Minor bug in report generation module,Software,Medium
+542,Inquiry about meeting notes integration,General Inquiry,Low
+543,Severe disruption to cloud-based operations,Infrastructure,High
+544,Recurring issue with cross-platform sync,Software,Medium
+545,Request for help with approval workflows,General Inquiry,Low
+546,Urgent: production environment unstable,Infrastructure,High
+547,Request for guidance on patch management,Software,Medium
+548,Question about public sharing options,General Inquiry,Low
+549,Critical hardware failure requires immediate replacement,Hardware,High
+550,Moderate performance issue in ETL pipeline,Software,Medium
+551,Minor issue with print stylesheet,Software,Low
+552,Major outage in enterprise collaboration platform,Software,High
+553,Some automated alerts sending duplicate emails,Software,Medium
+554,Inquiry about project cloning feature,General Inquiry,Low
+555,Request for information on folder structure,General Inquiry,Low
+556,Request for support with identity federation,Software,Medium
+557,Emergency: complete loss of data replication,Infrastructure,High
+558,Question about conditional formatting options,General Inquiry,Low
+559,Minor disruption to scheduled maintenance tasks,Software,Medium
+560,Critical SaaS performance degradation,Software,High
+561,Minor issue with PDF preview quality,Software,Low
+562,Recurring error in webhook configuration,Software,Medium
+563,Severe incident in distributed computing environment,Infrastructure,High
+564,Inquiry about time zone support,General Inquiry,Low
+565,Request for help with container orchestration,Software,Medium
+566,Urgent escalation: all remote access down,Network,High
+567,Request for help with import templates,General Inquiry,Low
+568,Moderate issue with service mesh configuration,Software,Medium
+569,Question about backup schedule visibility,General Inquiry,Low
+570,Critical failure in automated billing system,Billing,High
+571,Some users experiencing slow file transfers,Software,Medium
+572,Minor issue with color theme application,Software,Low
+573,Major security breach affecting all user data,Security,High
+574,Request for documentation on compliance standards,Documentation,Medium
+575,Request for information on product features,General Inquiry,Low
+576,Emergency: production server out of disk space,Infrastructure,High
+577,Minor glitch in authentication flow,Software,Medium
+578,Inquiry about available subscription plans,General Inquiry,Low
+579,Critical infrastructure vulnerability identified,Security,High
+580,Recurring issue with certificate renewal process,Software,Medium
+581,Request for general product documentation,Documentation,Low
+582,Severe disruption to enterprise workflows,Software,High
+583,Minor cosmetic issue in user interface,Software,Low
+584,Request for guidance on cloud cost management,Software,Medium
+585,Urgent: complete networking failure detected,Network,High
+586,Question about billing cycle dates,Billing,Low
+587,Moderate performance issue in search indexing,Software,Medium
+588,Request for user guide on basic features,Documentation,Low
+589,Critical server outage impacting all departments,Infrastructure,High
+590,Some API calls timing out intermittently,Software,Medium
+591,General inquiry about company services,General Inquiry,Low
+592,Severe network failure disrupting business operations,Network,High
+593,Request for help with microservices monitoring,Software,Medium
+594,Question about return and exchange policy,General Inquiry,Low
+595,Major security breach detected on company systems,Security,High
+596,Intermittent connectivity issues on workstations,Network,Medium
+597,Request for clarification on product terms,General Inquiry,Low
+598,Complete loss of internet connectivity across office,Network,High
+599,Printer not responding to network commands,Hardware,Medium
+600,Minor display issue on dashboard widget,Software,Low
