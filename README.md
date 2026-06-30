@@ -39,7 +39,7 @@ The main objectives of this project are:
 
 ## Machine Learning Workflow
 
-
+```text
 IT Support Ticket
         │
         ▼
@@ -78,7 +78,7 @@ Streamlit Web Application
         │
         ▼
 Predict Ticket Priority
-
+```
 
 ## Dataset
 
@@ -86,20 +86,22 @@ The dataset contains approximately **600 IT support tickets**.
 
 Each record contains:
 
- Column ------>   Description 
- ticket_id      Unique Ticket ID 
- description    Ticket Description 
- category       Ticket Category 
- priority       Ticket Priority 
+| Column | Description |
+|---|---|
+| ticket_id | Unique Ticket ID |
+| description | Ticket Description |
+| category | Ticket Category |
+| priority | Ticket Priority |
 
 Priority labels: 🔴 High, 🟡 Medium, 🟢 Low
 
 **Example:**
-1,My laptop screen is completely black and I cannot turn it on,Hardware,High
-2,I forgot my email password and cannot login,Account,Low
-3,The entire office network is down and nobody can work,Network,High
-4,My mouse is not working properly sometimes it skips,Hardware,Low
-5,Server is down and all customer data is inaccessible,Server,High
+
+| Description | Priority |
+|---|---|
+| Server crashed and customers cannot access data | High |
+| Printer is printing blank pages | Medium |
+| Need Microsoft Word installed | Low |
 
 ## Technologies Used
 
@@ -143,7 +145,7 @@ Naive Bayes was initially trained as a baseline model for comparison purposes. T
 
 The ticket descriptions undergo the following preprocessing steps before prediction:
 
-
+```text
 Original Ticket
       ↓
 Convert to Lowercase
@@ -159,7 +161,7 @@ Remove Stopwords
 Lemmatization
       ↓
 Clean Text
-
+```
 
 ## Model Evaluation
 
@@ -198,7 +200,7 @@ IT-Ticket-Classifier/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/IT-Ticket-Classifier.git
+git clone https://github.com/24CSB0B22/IT-Ticket-Classifier.git
 ```
 
 Move into the project directory:
@@ -253,7 +255,7 @@ Priority: 🟡 Medium
 
 **Input**
 ```text
-I need access to the HR folder on shared drive
+Please install Microsoft Excel on my laptop.
 ```
 
 **Output**
@@ -263,27 +265,29 @@ Priority: 🟢 Low
 
 ## Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-![Home](images/home.png)
-
----
-
-### High Priority Prediction
-
-![High](images/high.png)
+![Home Page](images/Home.png)
 
 ---
 
-### Medium Priority Prediction
+### 🔴 High Priority Prediction
 
-![Medium](images/medium.png)
+![High Priority](images/high.png)
 
 ---
 
-### Low Priority Prediction
+### 🟡 Medium Priority Prediction
 
-![Low](images/low.png)
+![Medium Priority](images/medium.png)
+
+---
+
+### 🟢 Low Priority Prediction
+
+![Low Priority](images/low.png)
+
+
 
 ## Future Improvements
 
